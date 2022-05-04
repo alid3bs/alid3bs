@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 1 project and 2 competitions on Kaggle 
-- 🌱 I'm currently studying the AI field at the information technology institute (ITI)
+- 🌱 I'm currently studying the AI field at the Information Technology Institute (ITI)
 
 <!--
 **alid3bs/alid3bs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
