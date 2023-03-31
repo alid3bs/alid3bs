@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Said Daebis</h1>
 <h3 align="center">AI Engineer From Egypt</h3>
 
-- 🔭 I’m currently working on **Audio Segmentation**
+- 🔭 I’m currently working at **Abu Dhabi Islamic Bank**
 
 - 📫 How to reach me **alid3bs38@gmail.com**
 
